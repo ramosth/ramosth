@@ -17,7 +17,7 @@ No dia a dia, planejo e executo testes funcionais, exploratórios, regressivos e
 Antes do QA, passei pelo **desenvolvimento**: fiz a residência de software do **Serratec** (770h de Java, React e React Native) e estagiei integrando APIs de cobrança bancária em PHP. Essa bagagem me ajuda a conversar com quem desenvolve e a entender o sistema por dentro.
 
 - 🧪 Automação de testes com **Robot Framework, Selenium e Cypress**, e testes de API com **Postman**
-- 🐍 Criei scripts em **Python** integrados à **API do Jira** para cadastrar casos de teste em massa e publicar evidências automaticamente, o que **reduziu em 75%** o tempo de tarefas manuais (de 16h para 4h)
+- 🐍 Criei scripts em **Python** integrados à **API do Jira** para cadastrar casos de teste em massa e publicar evidências automaticamente, o que **reduziu em 75%** o tempo de tarefas manuais (de 16h para 4h) ([criação de casos](https://github.com/ramosth/sheets-to-jira-test-cases) · [publicação de evidências](https://github.com/ramosth/robot-jira-evidence-automation))
 - 🎓 Formando em **Engenharia da Computação pela UERJ** (11/2026), com TCC sobre um sistema IoT de alerta para barragens de rejeitos
 - 📜 **ISTQB CTFL**, **Scrum Fundamentals (SFC)** e **Tricentis Tosca** (Fundamentals e Deep Dive)
 - 🌱 Estudando agora: Playwright, Appium e o caminho para QA Sênior (ISTQB CTAL-TAE)
@@ -57,6 +57,8 @@ Antes do QA, passei pelo **desenvolvimento**: fiz a residência de software do *
 |---|---|---|
 | [**TCC: Sistema de alerta para barragens**](https://github.com/ramosth/tcc-iprj-2025-sistema) | API e banco que recebem leituras de sensores e classificam o risco (verde, amarelo ou vermelho) | Node.js · TypeScript · Prisma · PostgreSQL |
 | [Firmware do protótipo](https://github.com/ramosth/tcc-iprj-2025-firmware) · [Simulador Wokwi](https://github.com/ramosth/tcc-iprj-2025-simulador-wokwi) · [Monografia](https://github.com/ramosth/tcc-iprj-2025-documento) | Hardware, simulação e texto do TCC | C++ · ESP8266 · LaTeX |
+| [**Automação E2E + evidências no Jira**](https://github.com/ramosth/robot-jira-evidence-automation) | 106 cenários BDD com Page Object; scripts Python recortam o relatório e publicam evidência, nota e status em cada card do Jira | Robot Framework · Selenium · Python · Jira API |
+| [**Sheets → Jira**](https://github.com/ramosth/sheets-to-jira-test-cases) | Criação de casos de teste em massa a partir do Google Sheets, já vinculados à história e no status certo | Python · Jira API · Google Sheets API |
 | [**Selenium Automation Framework**](https://github.com/ramosth/selenium-automation-framework-2026) | Framework de automação E2E do Sauce Demo com Page Object, testes orientados a dados (Excel), relatório Extent com prints, logs e envio por e-mail | Java · Selenium 4 · TestNG · Maven |
 | [**Automação de testes: Sistema de Biblioteca**](https://github.com/ramosth/IQS-Projeto-Final-Biblioteca) | 33 cenários de teste de UI em BDD com Page Object | Robot Framework · Selenium · Python |
 | [**API de livraria com JWT**](https://github.com/ramosth/livrariajwt) | API REST com autenticação JWT, carrinho, vendas e envio de e-mail | Java · Spring Boot · PostgreSQL |
