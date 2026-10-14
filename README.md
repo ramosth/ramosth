@@ -57,6 +57,7 @@ Antes do QA, passei pelo **desenvolvimento**: fiz a residência de software do *
 |---|---|---|
 | [**TCC: Sistema de alerta para barragens**](https://github.com/ramosth/tcc-iprj-2025-sistema) | API e banco que recebem leituras de sensores e classificam o risco (verde, amarelo ou vermelho) | Node.js · TypeScript · Prisma · PostgreSQL |
 | [Firmware do protótipo](https://github.com/ramosth/tcc-iprj-2025-firmware) · [Simulador Wokwi](https://github.com/ramosth/tcc-iprj-2025-simulador-wokwi) · [Monografia](https://github.com/ramosth/tcc-iprj-2025-documento) | Hardware, simulação e texto do TCC | C++ · ESP8266 · LaTeX |
+| [**Selenium Automation Framework**](https://github.com/ramosth/selenium-automation-framework-2026) | Framework de automação E2E do Sauce Demo com Page Object, testes orientados a dados (Excel), relatório Extent com prints, logs e envio por e-mail | Java · Selenium 4 · TestNG · Maven |
 | [**Automação de testes: Sistema de Biblioteca**](https://github.com/ramosth/IQS-Projeto-Final-Biblioteca) | 33 cenários de teste de UI em BDD com Page Object | Robot Framework · Selenium · Python |
 | [**Selenium com C# e Page Object**](https://github.com/ramosth/api_firjan_sprint_29) | Projeto de demonstração de automação com NUnit e evidências em screenshot | C# · Selenium · NUnit |
 | [**API de livraria com JWT**](https://github.com/ramosth/livrariajwt) | API REST com autenticação JWT, carrinho, vendas e envio de e-mail | Java · Spring Boot · PostgreSQL |
@@ -70,7 +71,7 @@ Antes do QA, passei pelo **desenvolvimento**: fiz a residência de software do *
 2021-2026   iLab Test: Aprendiz → Trainee → Júnior → QA Pleno
 2022        Estágio na Altarede Sistemas: integração com APIs de cobrança (PHP)
 2024        Curso IQS (FEST/UFF): projeto final de automação com Robot Framework
-2026        ISTQB CTFL · TCC na UERJ
+2026        ISTQB CTFL · TCC na UERJ · Framework Selenium + Java + TestNG
 ```
 
 ---
